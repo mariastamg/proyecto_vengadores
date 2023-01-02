@@ -7,6 +7,7 @@ body {
 
 nav.navbar {
     background-color: #0c1c3b !important;
+    --bs-navbar-padding-x: 1.5rem;
 }
 
 a.nav-link{

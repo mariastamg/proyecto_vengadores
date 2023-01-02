@@ -1,3 +1,21 @@
-nav.navbar {
-    background-color: #CC1414;
+
+.card {
+    padding: 5%;
+    margin: 2%; 
+    border-radius: 20%;
+
+}
+
+.card-red {
+    background-color: #b2323b;
+    border-color: white;
+    border-width: 0.2em;
+    color:white;
+
+}
+
+.list-group-item {
+    background-color: transparent;
+    border: none;
+    color: white;
 }
